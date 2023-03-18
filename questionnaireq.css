@@ -1,0 +1,34 @@
+body {
+    background-color: floralwhite;
+
+}
+
+#formulaire {
+    width: 400px;
+    margin: 8vh auto 0 auto;
+    padding: 20px;
+    background-color: whitesmoke;
+    border-radius: 15px;
+    font-size: 12px;
+    background-color: blue;
+    
+}
+
+
+button {
+    padding: 10px;
+    margin-top: 10px;
+    width: auto;
+    color: black;
+    background-color: rgb(224, 234, 223);
+    border: black;
+    border-radius: 2px;
+    background-color: chartreuse;
+   
+}
+
+h1, h2, h3, h4, h5 {
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
